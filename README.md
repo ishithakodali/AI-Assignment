@@ -1,6 +1,6 @@
 # AI-Assignment
 Repo for AI Assignment.
-This README file has the links of all the program repos individually.
+This README file has the links of all the program repos individually. Just click on the link to go to the required repo and see all the details.
 
 ## AQI Checker
 https://github.com/ishithakodali/AQI-Checker.git  
